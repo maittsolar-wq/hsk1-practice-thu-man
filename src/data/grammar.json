@@ -1,0 +1,520 @@
+[
+  {
+    "id": "g1",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我家有一___猫。",
+    "viHint": "Nhà tôi có một con mèo.",
+    "options": [
+      "只",
+      "条",
+      "把",
+      "个"
+    ],
+    "answer": "只"
+  },
+  {
+    "id": "g2",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我___喜欢咖啡。",
+    "viHint": "Tôi không thích cà phê.",
+    "options": [
+      "没有",
+      "不",
+      "很不",
+      "没"
+    ],
+    "answer": "不"
+  },
+  {
+    "id": "g3",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我是学生，他___是学生。",
+    "viHint": "Tôi là học sinh, anh ấy cũng là học sinh.",
+    "options": [
+      "都",
+      "在",
+      "也",
+      "很"
+    ],
+    "answer": "也"
+  },
+  {
+    "id": "g4",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我有一___朋友。",
+    "viHint": "Tôi có một người bạn.",
+    "options": [
+      "杯",
+      "个",
+      "本",
+      "条"
+    ],
+    "answer": "个"
+  },
+  {
+    "id": "g5",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你___老师吗？",
+    "viHint": "Bạn là giáo viên phải không?",
+    "options": [
+      "是",
+      "有",
+      "会",
+      "在"
+    ],
+    "answer": "是"
+  },
+  {
+    "id": "g6",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "桌子___有一本书。",
+    "viHint": "Trên bàn có một quyển sách.",
+    "options": [
+      "里",
+      "下",
+      "上",
+      "后面"
+    ],
+    "answer": "上"
+  },
+  {
+    "id": "g7",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我___北京工作。",
+    "viHint": "Tôi làm việc ở Bắc Kinh.",
+    "options": [
+      "在",
+      "是",
+      "有",
+      "去"
+    ],
+    "answer": "在"
+  },
+  {
+    "id": "g8",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你有___个苹果？",
+    "viHint": "Bạn có mấy quả táo?",
+    "options": [
+      "谁",
+      "什么",
+      "几",
+      "哪"
+    ],
+    "answer": "几"
+  },
+  {
+    "id": "g9",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "这个苹果___钱？",
+    "viHint": "Quả táo này bao nhiêu tiền?",
+    "options": [
+      "多少",
+      "几",
+      "怎么",
+      "谁"
+    ],
+    "answer": "多少"
+  },
+  {
+    "id": "g10",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "他今年二十___。",
+    "viHint": "Năm nay anh ấy 20 tuổi.",
+    "options": [
+      "点",
+      "年",
+      "岁",
+      "个"
+    ],
+    "answer": "岁"
+  },
+  {
+    "id": "g11",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我会___汉语。",
+    "viHint": "Tôi biết nói tiếng Trung.",
+    "options": [
+      "说",
+      "看",
+      "吃",
+      "坐"
+    ],
+    "answer": "说"
+  },
+  {
+    "id": "g12",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "妈妈___吃米饭。",
+    "viHint": "Mẹ thích ăn cơm.",
+    "options": [
+      "喜欢",
+      "认识",
+      "看见",
+      "叫"
+    ],
+    "answer": "喜欢"
+  },
+  {
+    "id": "g13",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "现在三___。",
+    "viHint": "Bây giờ là ba giờ.",
+    "options": [
+      "分",
+      "岁",
+      "点",
+      "本"
+    ],
+    "answer": "点"
+  },
+  {
+    "id": "g14",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我___看电影。",
+    "viHint": "Tôi muốn xem phim.",
+    "options": [
+      "想",
+      "是",
+      "有",
+      "叫"
+    ],
+    "answer": "想"
+  },
+  {
+    "id": "g15",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你___哪儿？",
+    "viHint": "Bạn đi đâu?",
+    "options": [
+      "去",
+      "喝",
+      "读",
+      "写"
+    ],
+    "answer": "去"
+  },
+  {
+    "id": "g16",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "今天天气___冷。",
+    "viHint": "Hôm nay thời tiết rất lạnh.",
+    "options": [
+      "很",
+      "都",
+      "也",
+      "吗"
+    ],
+    "answer": "很"
+  },
+  {
+    "id": "g17",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "他___老师。",
+    "viHint": "Anh ấy là giáo viên.",
+    "options": [
+      "有",
+      "是",
+      "在",
+      "会"
+    ],
+    "answer": "是"
+  },
+  {
+    "id": "g18",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "这是___书。",
+    "viHint": "Đây là sách của tôi.",
+    "options": [
+      "我",
+      "我的",
+      "我是",
+      "我们"
+    ],
+    "answer": "我的"
+  },
+  {
+    "id": "g19",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你喝茶___？",
+    "viHint": "Bạn uống trà không?",
+    "options": [
+      "吗",
+      "的",
+      "了",
+      "也"
+    ],
+    "answer": "吗"
+  },
+  {
+    "id": "g20",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "爸爸和妈妈___在家。",
+    "viHint": "Bố và mẹ đều ở nhà.",
+    "options": [
+      "都",
+      "也",
+      "很",
+      "呢"
+    ],
+    "answer": "都"
+  },
+  {
+    "id": "g21",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我的书___桌子上。",
+    "viHint": "Sách của tôi ở trên bàn.",
+    "options": [
+      "在",
+      "是",
+      "有",
+      "去"
+    ],
+    "answer": "在"
+  },
+  {
+    "id": "g22",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "他___中国人。",
+    "viHint": "Anh ấy là người Trung Quốc.",
+    "options": [
+      "有",
+      "会",
+      "是",
+      "在"
+    ],
+    "answer": "是"
+  },
+  {
+    "id": "g23",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你___喝水吗？",
+    "viHint": "Bạn có muốn uống nước không?",
+    "options": [
+      "想",
+      "读",
+      "写",
+      "坐"
+    ],
+    "answer": "想"
+  },
+  {
+    "id": "g24",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我___一个女儿。",
+    "viHint": "Tôi có một cô con gái.",
+    "options": [
+      "是",
+      "有",
+      "在",
+      "会"
+    ],
+    "answer": "有"
+  },
+  {
+    "id": "g25",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "___是我的朋友。",
+    "viHint": "Cô ấy là bạn của tôi.",
+    "options": [
+      "她",
+      "哪儿",
+      "什么",
+      "谁"
+    ],
+    "answer": "她"
+  },
+  {
+    "id": "g26",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你妈妈___哪儿工作？",
+    "viHint": "Mẹ bạn làm việc ở đâu?",
+    "options": [
+      "在",
+      "是",
+      "有",
+      "叫"
+    ],
+    "answer": "在"
+  },
+  {
+    "id": "g27",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "今天星期___？",
+    "viHint": "Hôm nay là thứ mấy?",
+    "options": [
+      "谁",
+      "几",
+      "多少",
+      "哪儿"
+    ],
+    "answer": "几"
+  },
+  {
+    "id": "g28",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你___吃什么？",
+    "viHint": "Bạn muốn ăn gì?",
+    "options": [
+      "想",
+      "看见",
+      "认识",
+      "坐"
+    ],
+    "answer": "想"
+  },
+  {
+    "id": "g29",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我___看电视。",
+    "viHint": "Tôi đang xem tivi.",
+    "options": [
+      "在",
+      "是",
+      "有",
+      "都"
+    ],
+    "answer": "在"
+  },
+  {
+    "id": "g30",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "他___家。",
+    "viHint": "Anh ấy ở nhà.",
+    "options": [
+      "在",
+      "会",
+      "有",
+      "叫"
+    ],
+    "answer": "在"
+  },
+  {
+    "id": "g31",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "这___什么？",
+    "viHint": "Đây là cái gì?",
+    "options": [
+      "有",
+      "在",
+      "是",
+      "会"
+    ],
+    "answer": "是"
+  },
+  {
+    "id": "g32",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "那个人___谁？",
+    "viHint": "Người kia là ai?",
+    "options": [
+      "是",
+      "有",
+      "想",
+      "去"
+    ],
+    "answer": "是"
+  },
+  {
+    "id": "g33",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "你___说汉语吗？",
+    "viHint": "Bạn biết nói tiếng Trung không?",
+    "options": [
+      "会",
+      "是",
+      "有",
+      "在"
+    ],
+    "answer": "会"
+  },
+  {
+    "id": "g34",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我没有___。",
+    "viHint": "Tôi không có tiền.",
+    "options": [
+      "钱",
+      "喝",
+      "看",
+      "去"
+    ],
+    "answer": "钱"
+  },
+  {
+    "id": "g35",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "桌子下面___一只猫。",
+    "viHint": "Dưới bàn có một con mèo.",
+    "options": [
+      "是",
+      "有",
+      "会",
+      "叫"
+    ],
+    "answer": "有"
+  },
+  {
+    "id": "g36",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "我和他___是学生。",
+    "viHint": "Tôi và anh ấy đều là học sinh.",
+    "options": [
+      "都",
+      "也",
+      "很",
+      "吗"
+    ],
+    "answer": "都"
+  },
+  {
+    "id": "g37",
+    "type": "grammar",
+    "label": "CHỌN ĐÁP ÁN ĐÚNG",
+    "prompt": "这个苹果很___。",
+    "viHint": "Quả táo này rất to.",
+    "options": [
+      "大",
+      "喝",
+      "在",
+      "谁"
+    ],
+    "answer": "大"
+  }
+]

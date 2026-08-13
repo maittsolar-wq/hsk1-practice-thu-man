@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "vi": "yêu"
+  },
+  {
+    "id": 2,
+    "hanzi": "八",
+    "pinyin": "bā",
+    "vi": "tám"
+  },
+  {
+    "id": 3,
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "vi": "bố"
+  },
+  {
+    "id": 4,
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "vi": "cốc"
+  },
+  {
+    "id": 5,
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "vi": "Bắc Kinh"
+  },
+  {
+    "id": 6,
+    "hanzi": "本",
+    "pinyin": "běn",
+    "vi": "lượng từ cho sách"
+  },
+  {
+    "id": 7,
+    "hanzi": "不",
+    "pinyin": "bù",
+    "vi": "không"
+  },
+  {
+    "id": 8,
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "vi": "không có gì"
+  },
+  {
+    "id": 9,
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "vi": "món ăn / rau"
+  },
+  {
+    "id": 10,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "vi": "trà"
+  },
+  {
+    "id": 11,
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "vi": "ăn"
+  },
+  {
+    "id": 12,
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "vi": "taxi"
+  },
+  {
+    "id": 13,
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "vi": "gọi điện thoại"
+  },
+  {
+    "id": 14,
+    "hanzi": "大",
+    "pinyin": "dà",
+    "vi": "lớn"
+  },
+  {
+    "id": 15,
+    "hanzi": "的",
+    "pinyin": "de",
+    "vi": "trợ từ sở hữu"
+  },
+  {
+    "id": 16,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "vi": "giờ / điểm"
+  },
+  {
+    "id": 17,
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "vi": "máy tính"
+  },
+  {
+    "id": 18,
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "vi": "tivi"
+  },
+  {
+    "id": 19,
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "vi": "phim"
+  },
+  {
+    "id": 20,
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "vi": "đồ vật"
+  },
+  {
+    "id": 21,
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "vi": "đều"
+  },
+  {
+    "id": 22,
+    "hanzi": "读",
+    "pinyin": "dú",
+    "vi": "đọc"
+  },
+  {
+    "id": 23,
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "vi": "xin lỗi"
+  },
+  {
+    "id": 24,
+    "hanzi": "多",
+    "pinyin": "duō",
+    "vi": "nhiều"
+  },
+  {
+    "id": 25,
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "vi": "bao nhiêu"
+  },
+  {
+    "id": 26,
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "vi": "con trai"
+  },
+  {
+    "id": 27,
+    "hanzi": "二",
+    "pinyin": "èr",
+    "vi": "hai"
+  },
+  {
+    "id": 28,
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "vi": "nhà hàng"
+  },
+  {
+    "id": 29,
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "vi": "máy bay"
+  },
+  {
+    "id": 30,
+    "hanzi": "分钟",
+    "pinyin": "fēnzhōng",
+    "vi": "phút"
+  },
+  {
+    "id": 31,
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "vi": "vui"
+  },
+  {
+    "id": 32,
+    "hanzi": "个",
+    "pinyin": "gè",
+    "vi": "lượng từ phổ biến"
+  },
+  {
+    "id": 33,
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "vi": "làm việc / công việc"
+  },
+  {
+    "id": 34,
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "vi": "chó"
+  },
+  {
+    "id": 35,
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "vi": "tiếng Trung"
+  },
+  {
+    "id": 36,
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "vi": "tốt"
+  },
+  {
+    "id": 37,
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "vi": "uống"
+  },
+  {
+    "id": 38,
+    "hanzi": "和",
+    "pinyin": "hé",
+    "vi": "và"
+  },
+  {
+    "id": 39,
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "vi": "rất"
+  },
+  {
+    "id": 40,
+    "hanzi": "后面",
+    "pinyin": "hòumiàn",
+    "vi": "phía sau"
+  },
+  {
+    "id": 41,
+    "hanzi": "回",
+    "pinyin": "huí",
+    "vi": "trở về"
+  },
+  {
+    "id": 42,
+    "hanzi": "会",
+    "pinyin": "huì",
+    "vi": "biết / có thể"
+  },
+  {
+    "id": 43,
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "vi": "mấy"
+  },
+  {
+    "id": 44,
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "vi": "nhà / gia đình"
+  },
+  {
+    "id": 45,
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "vi": "gọi / tên là"
+  },
+  {
+    "id": 46,
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "vi": "hôm nay"
+  },
+  {
+    "id": 47,
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "vi": "chín"
+  },
+  {
+    "id": 48,
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "vi": "mở / lái"
+  },
+  {
+    "id": 49,
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "vi": "nhìn / xem"
+  },
+  {
+    "id": 50,
+    "hanzi": "看见",
+    "pinyin": "kànjiàn",
+    "vi": "nhìn thấy"
+  },
+  {
+    "id": 51,
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "vi": "đồng / miếng"
+  },
+  {
+    "id": 52,
+    "hanzi": "来",
+    "pinyin": "lái",
+    "vi": "đến"
+  },
+  {
+    "id": 53,
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "vi": "giáo viên"
+  },
+  {
+    "id": 54,
+    "hanzi": "了",
+    "pinyin": "le",
+    "vi": "trợ từ hoàn thành"
+  },
+  {
+    "id": 55,
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "vi": "lạnh"
+  },
+  {
+    "id": 56,
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "vi": "bên trong"
+  },
+  {
+    "id": 57,
+    "hanzi": "六",
+    "pinyin": "liù",
+    "vi": "sáu"
+  },
+  {
+    "id": 58,
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "vi": "mẹ"
+  },
+  {
+    "id": 59,
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "vi": "trợ từ nghi vấn"
+  },
+  {
+    "id": 60,
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "vi": "mua"
+  },
+  {
+    "id": 61,
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "vi": "mèo"
+  },
+  {
+    "id": 62,
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "vi": "không sao"
+  },
+  {
+    "id": 63,
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "vi": "cơm"
+  },
+  {
+    "id": 64,
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "vi": "ngày mai"
+  },
+  {
+    "id": 65,
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "vi": "tên"
+  },
+  {
+    "id": 66,
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "vi": "nào"
+  },
+  {
+    "id": 67,
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "vi": "ở đâu"
+  },
+  {
+    "id": 68,
+    "hanzi": "那",
+    "pinyin": "nà",
+    "vi": "kia / đó"
+  },
+  {
+    "id": 69,
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "vi": "trợ từ nghi vấn"
+  },
+  {
+    "id": 70,
+    "hanzi": "能",
+    "pinyin": "néng",
+    "vi": "có thể"
+  },
+  {
+    "id": 71,
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "vi": "bạn"
+  },
+  {
+    "id": 72,
+    "hanzi": "年",
+    "pinyin": "nián",
+    "vi": "năm"
+  },
+  {
+    "id": 73,
+    "hanzi": "女儿",
+    "pinyin": "nǚ'ér",
+    "vi": "con gái"
+  },
+  {
+    "id": 74,
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "vi": "bạn bè"
+  },
+  {
+    "id": 75,
+    "hanzi": "漂亮",
+    "pinyin": "piàoliang",
+    "vi": "xinh đẹp"
+  },
+  {
+    "id": 76,
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "vi": "táo"
+  },
+  {
+    "id": 77,
+    "hanzi": "七",
+    "pinyin": "qī",
+    "vi": "bảy"
+  },
+  {
+    "id": 78,
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "vi": "tiền"
+  },
+  {
+    "id": 79,
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "vi": "phía trước"
+  },
+  {
+    "id": 80,
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "vi": "mời / vui lòng"
+  },
+  {
+    "id": 81,
+    "hanzi": "去",
+    "pinyin": "qù",
+    "vi": "đi"
+  },
+  {
+    "id": 82,
+    "hanzi": "热",
+    "pinyin": "rè",
+    "vi": "nóng"
+  },
+  {
+    "id": 83,
+    "hanzi": "人",
+    "pinyin": "rén",
+    "vi": "người"
+  },
+  {
+    "id": 84,
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "vi": "quen / biết"
+  },
+  {
+    "id": 85,
+    "hanzi": "三",
+    "pinyin": "sān",
+    "vi": "ba"
+  },
+  {
+    "id": 86,
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "vi": "cửa hàng"
+  },
+  {
+    "id": 87,
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "vi": "trên / lên"
+  },
+  {
+    "id": 88,
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "vi": "buổi sáng"
+  },
+  {
+    "id": 89,
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "vi": "ít"
+  },
+  {
+    "id": 90,
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "vi": "ai"
+  },
+  {
+    "id": 91,
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "vi": "cái gì"
+  },
+  {
+    "id": 92,
+    "hanzi": "十",
+    "pinyin": "shí",
+    "vi": "mười"
+  },
+  {
+    "id": 93,
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "vi": "lúc / thời gian"
+  },
+  {
+    "id": 94,
+    "hanzi": "是",
+    "pinyin": "shì",
+    "vi": "là"
+  },
+  {
+    "id": 95,
+    "hanzi": "书",
+    "pinyin": "shū",
+    "vi": "sách"
+  },
+  {
+    "id": 96,
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "vi": "nước"
+  },
+  {
+    "id": 97,
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "vi": "hoa quả"
+  },
+  {
+    "id": 98,
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "vi": "ngủ"
+  },
+  {
+    "id": 99,
+    "hanzi": "说话",
+    "pinyin": "shuōhuà",
+    "vi": "nói chuyện"
+  },
+  {
+    "id": 100,
+    "hanzi": "四",
+    "pinyin": "sì",
+    "vi": "bốn"
+  },
+  {
+    "id": 101,
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "vi": "tuổi"
+  },
+  {
+    "id": 102,
+    "hanzi": "他",
+    "pinyin": "tā",
+    "vi": "anh ấy"
+  },
+  {
+    "id": 103,
+    "hanzi": "她",
+    "pinyin": "tā",
+    "vi": "cô ấy"
+  },
+  {
+    "id": 104,
+    "hanzi": "太",
+    "pinyin": "tài",
+    "vi": "quá"
+  },
+  {
+    "id": 105,
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "vi": "thời tiết"
+  },
+  {
+    "id": 106,
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "vi": "nghe"
+  },
+  {
+    "id": 107,
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "vi": "bạn học"
+  },
+  {
+    "id": 108,
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "vi": "tôi"
+  },
+  {
+    "id": 109,
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "vi": "chúng tôi / chúng ta"
+  },
+  {
+    "id": 110,
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "vi": "năm"
+  },
+  {
+    "id": 111,
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "vi": "thích"
+  },
+  {
+    "id": 112,
+    "hanzi": "下",
+    "pinyin": "xià",
+    "vi": "dưới / xuống"
+  },
+  {
+    "id": 113,
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "vi": "buổi chiều"
+  },
+  {
+    "id": 114,
+    "hanzi": "下雨",
+    "pinyin": "xiàyǔ",
+    "vi": "mưa"
+  },
+  {
+    "id": 115,
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "vi": "ông / ngài"
+  },
+  {
+    "id": 116,
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "vi": "bây giờ"
+  },
+  {
+    "id": 117,
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "vi": "muốn / nghĩ"
+  },
+  {
+    "id": 118,
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "vi": "nhỏ"
+  },
+  {
+    "id": 119,
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "vi": "cô / tiểu thư"
+  },
+  {
+    "id": 120,
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "vi": "một vài"
+  },
+  {
+    "id": 121,
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "vi": "viết"
+  },
+  {
+    "id": 122,
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "vi": "cảm ơn"
+  },
+  {
+    "id": 123,
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "vi": "tuần / thứ"
+  },
+  {
+    "id": 124,
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "vi": "học sinh"
+  },
+  {
+    "id": 125,
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "vi": "học"
+  },
+  {
+    "id": 126,
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "vi": "trường học"
+  },
+  {
+    "id": 127,
+    "hanzi": "一",
+    "pinyin": "yī",
+    "vi": "một"
+  },
+  {
+    "id": 128,
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "vi": "quần áo"
+  },
+  {
+    "id": 129,
+    "hanzi": "医生",
+    "pinyin": "yīshēng",
+    "vi": "bác sĩ"
+  },
+  {
+    "id": 130,
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "vi": "bệnh viện"
+  },
+  {
+    "id": 131,
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "vi": "ghế"
+  },
+  {
+    "id": 132,
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "vi": "có"
+  },
+  {
+    "id": 133,
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "vi": "tháng"
+  },
+  {
+    "id": 134,
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "vi": "tạm biệt"
+  },
+  {
+    "id": 135,
+    "hanzi": "在",
+    "pinyin": "zài",
+    "vi": "ở / đang"
+  },
+  {
+    "id": 136,
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "vi": "thế nào / làm sao"
+  },
+  {
+    "id": 137,
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "vi": "thế nào"
+  },
+  {
+    "id": 138,
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "vi": "này"
+  },
+  {
+    "id": 139,
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "vi": "Trung Quốc"
+  },
+  {
+    "id": 140,
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "vi": "buổi trưa"
+  },
+  {
+    "id": 141,
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "vi": "ở / sống"
+  },
+  {
+    "id": 142,
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "vi": "bàn"
+  },
+  {
+    "id": 143,
+    "hanzi": "字",
+    "pinyin": "zì",
+    "vi": "chữ"
+  },
+  {
+    "id": 144,
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "vi": "hôm qua"
+  },
+  {
+    "id": 145,
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "vi": "ngồi"
+  },
+  {
+    "id": 146,
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "vi": "làm"
+  },
+  {
+    "id": 147,
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "vi": "a lô / này"
+  },
+  {
+    "id": 148,
+    "hanzi": "零",
+    "pinyin": "líng",
+    "vi": "số không"
+  },
+  {
+    "id": 149,
+    "hanzi": "号",
+    "pinyin": "hào",
+    "vi": "số / ngày"
+  },
+  {
+    "id": 150,
+    "hanzi": "再",
+    "pinyin": "zài",
+    "vi": "lại / lần nữa"
+  }
+]
