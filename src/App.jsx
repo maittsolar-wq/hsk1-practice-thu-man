@@ -455,28 +455,41 @@ export default function App() {
   // CHỌN ĐÁP ÁN
   // ====================================================
 
-  const handleSelect = (option) => {
+  const playAnswerSound = (isCorrect) => {
+  const audio = new Audio(
+    isCorrect
+      ? '/sounds/correct.mp3'
+      : '/sounds/wrong.mp3'
+  )
 
-    // Đã chọn rồi thì không cho chọn lại
-    if (selected !== null) {
-      return
-    }
+  audio.volume = 0.55
+
+  audio.play().catch(() => {
+    // Không làm lỗi app nếu trình duyệt chặn âm thanh
+  })
+}
 
 
-    setSelected(option)
+const handleSelect = (option) => {
 
-
-    if (
-      option ===
-      currentQuestion.answer
-    ) {
-
-      setCorrect(
-        (value) =>
-          value + 1
-      )
-    }
+  if (selected !== null) {
+    return
   }
+
+  const isCorrect =
+    option === currentQuestion.answer
+
+  setSelected(option)
+
+  playAnswerSound(isCorrect)
+
+  if (isCorrect) {
+    setCorrect(
+      (value) =>
+        value + 1
+    )
+  }
+}
 
 
   // ====================================================
