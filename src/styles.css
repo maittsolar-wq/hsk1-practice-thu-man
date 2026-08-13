@@ -608,5 +608,17 @@ button { font: inherit; }
 
     font-size: 11px;
   }
+}.data-footer {
+  width: 100%;
+
+  margin-top: 20px;
+  padding-top: 18px;
+
+  text-align: center;
+
+  font-size: 15px;
+  line-height: 1.6;
+
+  color: var(--muted);
 }
 
